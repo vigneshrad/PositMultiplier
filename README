@@ -1,0 +1,5 @@
+positmul - POSIT MULTIPLIER 
+minifpmul - Mini-Float Multiplier (8-bit)
+halffpmul - Half-Float Multiplier (16-bit)
+
+tb directory contains the testbench files.
